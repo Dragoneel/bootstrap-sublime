@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="span${1:3}${2: offset${3:3}}">
+	${1:}
+</div><!-- /${1:3} -->
+]]></content>
+  <tabTrigger>rowcol</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap row column</description>
+</snippet>

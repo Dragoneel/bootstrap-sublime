@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<div class="navbar${1: navbar-fixed-top}">
+  <div class="navbar-inner">
+    <div class="container">
+      ${2:}
+    </div>
+  </div>
+</div>
+]]></content>
+  <tabTrigger>navbar</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap navbar</description>
+</snippet>

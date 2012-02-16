@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="well">${1:}</div>
+]]></content>
+	<tabTrigger>well</tabTrigger>
+	<scope>text.html</scope>
+  <description>Bootstrap well</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<a class="brand" href="${1:#}">
+  ${2:Project name}
+</a>
+]]></content>
+  <tabTrigger>brand</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap navbar brand</description>
+</snippet>

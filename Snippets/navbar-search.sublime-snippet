@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<form class="navbar-search${1: pull-left}">
+  <input type="text" class="search-query" placeholder="Search">
+</form>
+]]></content>
+  <tabTrigger>navbar</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap navbar search</description>
+</snippet>

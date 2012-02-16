@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	${1:}
+</div><!-- /row -->
+]]></content>
+  <tabTrigger>row</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap row</description>
+</snippet>

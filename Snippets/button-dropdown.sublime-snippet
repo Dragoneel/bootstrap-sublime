@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+<div class="btn-group">
+  <a class="btn dropdown-toggle${1: btn-primary}" data-toggle="dropdown" href="#">Action <span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    <li><a href="#">Action</a></li>
+    <li><a href="#">Another action</a></li>
+    <li><a href="#">Something else here</a></li>
+    <li class="divider"></li>
+    <li><a href="#">Separated link</a></li>
+  </ul>
+</div>
+]]></content>
+  <tabTrigger>dropdown</tabTrigger>
+  <scope>text.html</scope>
+  <description>Bootstrap button dropdown</description>
+</snippet>

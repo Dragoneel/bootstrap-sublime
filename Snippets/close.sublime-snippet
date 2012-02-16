@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a class="close"${1: data-dismiss="${2:}"}>&times;</a>
+]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>text.html</scope>
+  <description>Bootstrap close</description>
+</snippet>
