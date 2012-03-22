@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-inverse">${1:Inverse}</span>
+]]></content>
+	<tabTrigger>label</tabTrigger>
+	<scope>text.html</scope>
+  <description>Bootstrap label inverse</description>
+</snippet>
